@@ -1,0 +1,63 @@
+2013-12-18  Kim Jaehoon  <nafume@telechips.com>
+
+	* Applied Linux SDK build environment
+	
+
+2013-12-13  Kim Jaehoon  <nafume@telechips.com>
+
+	* Modified seeking relative routines
+
+
+2013-12-12  Kim Jaehoon  <nafume@telechips.com>
+
+	* Modified some problems about querying duration
+
+	* Added dot file writing routine to tcplay
+	
+
+2013-12-11  Kim Jaehoon  <nafume@telechips.com>
+
+	* Modified tcplay test application
+		- Moved drawing region into the main window. 
+		- Tested playback on Ubuntu and Windows environment
+		
+	
+2013-12-09  Kim Jaehoon  <nafume@telechips.com>
+
+	* Removed gst_tc_demux.h.
+
+
+2013-12-06  Kim Jaehoon  <nafume@telechips.com>
+
+	* Added playback test application based on the sdk tutorial
+	
+	
+2013-12-03  Kim Jaehoon  <nafume@telechips.com>
+
+	* Added test project
+	
+
+2013-12-02  Kim Jaehoon  <nafume@telechips.com>
+
+	* modified project files
+		- added ltmain.sh
+		- modified configure.ac
+
+
+2013-11-29  Kim Jaehoon  <nafume@telechips.com>
+
+	* Added some properties to the GstTcDemuxBase class for testing
+		- properties: video-off, audio-off, graphic-off, subtitle-off, private-off
+
+	* Modified some minor bugs of selective demuxing mode
+	
+
+2013-11-28  Kim Jaehoon  <nafume@telechips.com>
+
+	* libX86_TSDMX_LINUX_V1.6.3.a is updated
+	* libX86_FLVDMX_LINUX_V0.3.19.a is updated
+
+
+2013-11-28  Kim Jaehoon  <nafume@telechips.com>
+
+	* project setup
